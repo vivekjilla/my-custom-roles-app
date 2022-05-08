@@ -2,7 +2,7 @@ const fetch = require('node-fetch').default;
 
 // add role names to this object to map them to group ids in your AAD tenant
 const roleGroupMappings = {
-    'admin': '21a96550-aa02-486e-9297-e6e51b6398fc',
+    'admin': '4b8c1793-31f1-45c4-9ff3-23f21c2787d4',
     'reader': '33bb071c-118d-40d1-a5d7-7ced5900b973'
 };
 
